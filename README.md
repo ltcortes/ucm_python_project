@@ -1,3 +1,3 @@
-# ucm_python_project
+# UCM Python Project
 
-This repo contains auxiliar url paths for a educational project.
+This repo contains images to get URLs for an educational project.
